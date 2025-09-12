@@ -1,0 +1,5 @@
+name: Lifesteal
+version: '1.0 Beta'
+main: com.Lsgserver.Lifesteal
+api-version: '1.21'
+author: Lsgserver
